@@ -1,0 +1,293 @@
+{
+    "m_SelectedDeviceId": "KBNFCYKJMVGEGIDU",
+    "m_SelectedPackage": {
+        "deviceId": "KBNFCYKJMVGEGIDU",
+        "name": "com.DefaultCompany.Lab4",
+        "processId": 18794,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "R52N50KJC3V",
+            "name": "com.DefaultCompany.Lab1",
+            "processId": 10032,
+            "exited": true
+        },
+        {
+            "deviceId": "R52N50KJC3V",
+            "name": "com.DefaultCompany.Lab1",
+            "processId": 5221,
+            "exited": true
+        },
+        {
+            "deviceId": "R52N50KJC3V",
+            "name": "com.DefaultCompany.Lab1",
+            "processId": 5220,
+            "exited": true
+        },
+        {
+            "deviceId": "R52N50KJC3V",
+            "name": "com.DefaultCompany.Lab1",
+            "processId": 29244,
+            "exited": true
+        },
+        {
+            "deviceId": "R52N50KJC3V",
+            "name": "com.DefaultCompany.Lab1",
+            "processId": 29097,
+            "exited": true
+        },
+        {
+            "deviceId": "R52N50KJC3V",
+            "name": "com.DefaultCompany.Lab1",
+            "processId": 17894,
+            "exited": false
+        },
+        {
+            "deviceId": "R52N50KJC3V",
+            "name": "com.google.android.permissioncontroller",
+            "processId": 8750,
+            "exited": false
+        },
+        {
+            "deviceId": "R52N50KJC3V",
+            "name": "com.DefaultCompany.Lab1",
+            "processId": 25875,
+            "exited": false
+        },
+        {
+            "deviceId": "R52N50KJC3V",
+            "name": "com.DefaultCompany.Lab1",
+            "processId": 26512,
+            "exited": false
+        },
+        {
+            "deviceId": "R52N50KJC3V",
+            "name": "com.DefaultCompany.Lab1",
+            "processId": 30597,
+            "exited": false
+        },
+        {
+            "deviceId": "R52N50KJC3V",
+            "name": "com.DefaultCompany.Lab1",
+            "processId": 411,
+            "exited": false
+        },
+        {
+            "deviceId": "R52N60177WE",
+            "name": "com.DefaultCompany.Lab1",
+            "processId": 16351,
+            "exited": false
+        },
+        {
+            "deviceId": "R52N60177WE",
+            "name": "com.DefaultCompany.Lab1",
+            "processId": 1622,
+            "exited": false
+        },
+        {
+            "deviceId": "R52N60177WE",
+            "name": "com.DefaultCompany.Lab1",
+            "processId": 16118,
+            "exited": false
+        },
+        {
+            "deviceId": "R52N60177WE",
+            "name": "com.DefaultCompany.Lab1",
+            "processId": 19139,
+            "exited": false
+        },
+        {
+            "deviceId": "R52N60177WE",
+            "name": "com.DefaultCompany.Lab1",
+            "processId": 19734,
+            "exited": false
+        },
+        {
+            "deviceId": "R52N60177WE",
+            "name": "com.DefaultCompany.Lab1",
+            "processId": 20144,
+            "exited": false
+        },
+        {
+            "deviceId": "R52N503KNEL",
+            "name": "com.DefaultCompany.Lab1",
+            "processId": 13059,
+            "exited": true
+        },
+        {
+            "deviceId": "R52N503KNEL",
+            "name": "com.DefaultCompany.Lab1",
+            "processId": 21282,
+            "exited": true
+        },
+        {
+            "deviceId": "R52N503KNEL",
+            "name": "com.DefaultCompany.Lab1",
+            "processId": 27794,
+            "exited": true
+        },
+        {
+            "deviceId": "R52N503KNEL",
+            "name": "com.DefaultCompany.Lab1",
+            "processId": 28984,
+            "exited": true
+        },
+        {
+            "deviceId": "R52N503KNEL",
+            "name": "com.DefaultCompany.Lab1",
+            "processId": 30044,
+            "exited": true
+        },
+        {
+            "deviceId": "R52N503KNEL",
+            "name": "com.sec.android.app.launcher",
+            "processId": 5581,
+            "exited": false
+        },
+        {
+            "deviceId": "R52N503KNEL",
+            "name": "com.DefaultCompany.Lab1",
+            "processId": 31896,
+            "exited": false
+        },
+        {
+            "deviceId": "R52N503KNEL",
+            "name": "com.DefaultCompany.Lab1",
+            "processId": 32672,
+            "exited": false
+        },
+        {
+            "deviceId": "R52N503KLRM",
+            "name": "com.DefaultCompany.Lab1",
+            "processId": 19430,
+            "exited": true
+        },
+        {
+            "deviceId": "R52N503KLRM",
+            "name": "com.sec.android.app.launcher",
+            "processId": 5805,
+            "exited": false
+        },
+        {
+            "deviceId": "R52N503KLRM",
+            "name": "com.DefaultCompany.Lab1",
+            "processId": 19693,
+            "exited": true
+        },
+        {
+            "deviceId": "R52N503KLRM",
+            "name": "com.DefaultCompany.Lab1",
+            "processId": 23557,
+            "exited": true
+        },
+        {
+            "deviceId": "R52N601707R",
+            "name": "com.sec.android.app.launcher",
+            "processId": 5654,
+            "exited": true
+        },
+        {
+            "deviceId": "R52N601707R",
+            "name": "com.DefaultCompany.Lab4",
+            "processId": 21259,
+            "exited": true
+        },
+        {
+            "deviceId": "R52N601707R",
+            "name": "com.DefaultCompany.Lab4",
+            "processId": 28973,
+            "exited": true
+        },
+        {
+            "deviceId": "R52N601707R",
+            "name": "com.DefaultCompany.Lab4",
+            "processId": 29431,
+            "exited": true
+        },
+        {
+            "deviceId": "R52N601707R",
+            "name": "com.DefaultCompany.Lab4",
+            "processId": 12891,
+            "exited": true
+        },
+        {
+            "deviceId": "R52N601707R",
+            "name": "com.DefaultCompany.Lab4",
+            "processId": 15374,
+            "exited": false
+        },
+        {
+            "deviceId": "R52N50KJB5M",
+            "name": "com.DefaultCompany.Lab1",
+            "processId": 25564,
+            "exited": true
+        },
+        {
+            "deviceId": "R52N50KJB5M",
+            "name": "com.DefaultCompany.Lab1",
+            "processId": 27142,
+            "exited": false
+        },
+        {
+            "deviceId": "KBNFCYKJMVGEGIDU",
+            "name": "com.DefaultCompany.Lab4",
+            "processId": 18794,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": true
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "clo",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}

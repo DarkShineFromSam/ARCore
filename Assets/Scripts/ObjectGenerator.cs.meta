@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 37852c8baf4f8c749a91eccba194e5cf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SpawnMarkerPrefab: {fileID: 6429965149853622603, guid: b634e9f5b8adccf4089687d8c7802f92, type: 3}
+  - SpawnObjectScroll: {instanceID: 0}
+  - ARCamera: {instanceID: 0}
+  - SelectionPanel: {instanceID: 0}
+  - SelectedTitle: {instanceID: 0}
+  - SelectedDescription: {instanceID: 0}
+  - LinePrefab: {fileID: 4721521057612606092, guid: ed915057a197e4b4a8a9addc834f67f9, type: 3}
+  - Line: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
